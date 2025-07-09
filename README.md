@@ -1,4 +1,4 @@
-## Hello there! 👋 Soy Huilén Vilches
+## Hello there! ✨ Soy Huilén Vilches ✨ 
 
 **Fullstack Developer — Golang | React | AWS**  
 📍 Argentina &nbsp;&nbsp;&nbsp;
@@ -18,11 +18,11 @@ Me motiva contribuir a soluciones con impacto real, y ser parte de equipos donde
 
 ---
 
-### 💼 Experiencia Destacada
+### Experiencia Destacada
 
-- 🛡️ **Mercado Pago** – Prevención de fraude, validación KYC, y protección de datos biométricos.
-- 💳 **Ualá** – APIs de medios de pago, automatización de onboarding y expansión regional.
-- 🚚 **Andreani** – Trazabilidad de vacunas y monitoreo logístico nacional.
+- ⚛️ **Mercado Pago** – Prevención de fraude, validación KYC, y protección de datos biométricos.
+- 🧠 **Ualá** – APIs de medios de pago, automatización de onboarding y expansión regional.
+- 💜 **Andreani** – Trazabilidad de vacunas y monitoreo logístico nacional.
 - 🌍 **Freelance** – Desarrollo de plataformas, e-commerce y automatizaciones.
 
 ---
@@ -52,8 +52,7 @@ Me motiva contribuir a soluciones con impacto real, y ser parte de equipos donde
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Huilén's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spookycoincidence&show_icons=true&theme=radical&hide=prs)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spookycoincidence&layout=compact&theme=radical&langs_count=6)
 
 </div>
@@ -70,14 +69,14 @@ Me motiva contribuir a soluciones con impacto real, y ser parte de equipos donde
 
 ---
 
-### 📫 Contacto
+### 💌 Contacto
 
 Si querés trabajar conmigo o simplemente charlar, escribime:
 
-📧 [tuemail@email.com](mailto:huilenvilches@email.com)  
-🔗 [linkedin.com/in/tu_usuario_linkedin](https://www.linkedin.com/in/huilenvilches/)
+📧 huilenvilches@gmail.com 
+🔗 https://www.linkedin.com/in/huilenvilches/
 
 ---
 
-*Gracias por pasar por mi perfil 💜*
+*Gracias por pasar por mi perfil ❤️*
 
